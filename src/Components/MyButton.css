@@ -1,0 +1,17 @@
+.all-around{
+    width: 30%;
+    background-color: black;
+    border: none;
+    height: 45px;
+    border-radius: 5px;
+    color: white;
+}
+
+.all-around:hover{
+    background-color: darkviolet;
+    border: 1px solid black;
+    color: black;
+    transition: 0.7s;
+    color: white;
+    size: 25px;
+}

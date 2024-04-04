@@ -1,0 +1,23 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+body {
+  margin: 0;
+  background-image: url(https://static.wixstatic.com/media/25f9e8_45a1315bdaac4a2fa4797215d181cf33~mv2.png/v1/fill/w_1478,h_1080,al_c,q_90,enc_auto/25f9e8_45a1315bdaac4a2fa4797215d181cf33~mv2.png);
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
