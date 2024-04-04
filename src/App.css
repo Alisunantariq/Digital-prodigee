@@ -618,9 +618,9 @@
     height: 75%;
     /* Height increases to 60% on hover */
   }
-  .all-around{
-    /* margin-top: 10px; */
-  }
+  /* .all-around{
+    margin-top: 10px;
+  } */
   
   @media screen and (min-width: 250px) and (max-width: 398px) {
     .main {

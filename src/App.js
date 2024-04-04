@@ -3,9 +3,6 @@ import "./App.css";
 
 import MyButton from "./Components/MyButton";
 import Second from "./Components/Second";
-import Third from "./Components/Third";
-import Fourth from "./Components/Fourth";
-import Fifth from "./Components/Fifth";
 
 function App() {
   return (
@@ -290,7 +287,7 @@ function App() {
           </div>
         </div>
         
-        <Third buttonText= "Schedule a Consulation"/>
+        <Second buttonText= "Schedule a Consulation"/>
           
       </div>
       <div className="p3-container">
@@ -422,7 +419,7 @@ function App() {
           </div>
         </div>
         
-          <Fourth buttonText= "GET STARTED"/>
+          <Second buttonText= "GET STARTED"/>
       </div>
       <div className="container-main">
         <div className="container-1">
@@ -447,7 +444,7 @@ function App() {
               </span>
             </div>
               
-            <Fifth buttonText= "LEARN MORE"/>
+            <Second buttonText= "LEARN MORE"/>
           </div>
         </div>
       </div>
